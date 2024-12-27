@@ -125,7 +125,6 @@ int main() {
 }
 
 🧑‍💻 Example Output
-bash
-Copy code
+
 Queue is Full, you can't add anything.
 Items in the queue: 20 30 40
